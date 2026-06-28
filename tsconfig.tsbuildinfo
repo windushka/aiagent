@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/chat.tsx","./src/components/quickactions.tsx","./src/components/requesthistory.tsx","./src/components/ticketformmodal.tsx","./src/components/ticketpanel.tsx","./src/data/faq.ts","./src/data/intents.ts"],"version":"5.9.3"}
